@@ -19,6 +19,6 @@ go run . https://eluv.io/items/ input.txt Y1JGMmR2RFpRc211MzdXR2dLNk1UY0w3WGpI
 ```
 The output should be stored in a txt file named [result.txt](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/result.txt)
 
-Currently [input.txt](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/input.txt) and [result.txt](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/result.txt) contains pseudo IDs and the responses. 
+Currently [input.txt](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/input.txt) and [result.txt](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/result.txt) contain pseudo IDs and their responses. 
 
 For any questions/comments/suggestions, feel free to send an email to me : jianghongwan1996@gmail.com
