@@ -1,0 +1,1392 @@
+cRF2dvDZQsmu3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
+cRF2dvDZQsmu37WGgK6MTcL7XjH
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
+cRF2dvDZQsmu37WGgK6
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
+cRF2dvDZQsmu37WGgK6MTcL
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
+cRF2dvDZQsmu37
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
+cRF2dvDZQsmu37W
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
+cRF2dvDZQsmu37WGgK6MTcL7Xj
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
+cRF2dvDZ
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="pingback" href="https://eluv.io/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="icon" type="image/png" href="/img/logo-footer.png">
+    <title>Page not found &#8211; Eluvio</title>
+<link rel='dns-prefetch' href='//eluv.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Feed" href="https://eluv.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Eluvio &raquo; Comments Feed" href="https://eluv.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eluv.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eluv.io/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontAwesome-css'  href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/animate.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mainThemeCss-css'  href='https://eluv.io/wp-content/themes/eluvio_twig/assets/css/main-theme.css?ver=2.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/isotope.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/popper.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/lib/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://eluv.io/wp-content/themes/eluvio_twig/assets/js/main.js?ver=1.5.81'></script>
+<link rel='https://api.w.org/' href='https://eluv.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eluv.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eluv.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<style>
+	html{margin-top: 0px !important;}
+</style>
+
+			</head>
+
+	<body class="error404" data-template="base.twig">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header class="header" >
+							<div class="wrapper">
+					<h1 class="hdr-logo" role="banner">
+						<a class="hdr-logo-link" href="https://eluv.io" rel="home">Eluvio</a>
+					</h1>
+					<nav id="nav-main" class="nav-main" role="navigation">
+							<ul>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-7">
+			<a target="" href="https://eluv.io/about/">About</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-9">
+			<a target="" href="https://eluv.io/home/">Home</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-13">
+			<a target="" href="https://eluv.io/resource-center/">resources</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-14">
+			<a target="" href="https://eluv.io/blog/">Blog</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-80">
+			<a target="" href="https://eluv.io/technology/">technology</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-81">
+			<a target="" href="https://eluv.io/ecosystem/">ecosystem</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-82">
+			<a target="" href="https://eluv.io/platform/">platform</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-84">
+			<a target="" href="https://eluv.io/careers/">careers</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-85">
+			<a target="" href="https://eluv.io/career/">career</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-86">
+			<a target="" href="https://eluv.io/dev/">dev</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-87">
+			<a target="" href="https://eluv.io/developer/">developer</a>
+				<ul>
+		</ul>
+		</li>
+			<li class=" menu-item menu-item-type- menu-item-object- menu-item-88">
+			<a target="" href="https://eluv.io/developers/">developers</a>
+				<ul>
+		</ul>
+		</li>
+		</ul>
+					</nav><!-- #nav -->
+				</div>
+					</header>
+
+		<section id="content" role="main" class="content-wrapper">
+						<div class="wrapper ">
+					Sorry, we couldn't find what you're looking for.
+			</div>
+					</section>
+
+					<footer id="footer">
+				<footer>
+    <div class="footer-container">
+        <a class="footer-logo" href="/">
+            <img src="https://eluv.io/wp-content/themes/eluvio_twig/img/logo-footer.png" alt="Logo">
+        </a>
+        <nav class="footer-menu">
+            <ul class="nav">
+                <li class="nav-item"><a href="/technology" class="nav-link">Technology</a></li>
+                <li class="nav-item"><a href="/platform" class="nav-link">Platform</a></li>
+                <li class="nav-item"><a href="/ecosystem" class="nav-link">Ecosystem</a></li>
+                <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
+                <li class="nav-item"><a href="/developer" class="nav-link">Dev</a></li>
+                <li class="nav-item"><a href="/demo" class="nav-link">Demo</a></li>
+                <li class="nav-item"><a href="/resource-center/" class="nav-link">Resources</a></li>
+            </ul>
+        </nav>
+        <div class="social-icons">
+            <a href="https://twitter.com/EluvioSoftware">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/eluv-io/about/">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
+    </div>
+    <div class="copyright box-dark">© 2020 Eluvio</div>
+</footer>			</footer>
+			<script type='text/javascript' src='https://eluv.io/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+			</body>
+</html>
+
