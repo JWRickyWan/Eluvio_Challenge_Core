@@ -1,7 +1,7 @@
-# Eluvio_Challenge_Core
+# Eluvio_Challenge_Application
 ## The Core Engineering challenge from Eluvio. An application to concurrently retrieve information using HTTP headers
 
-This is a challenge project from Eluvio for the application to the core engineer summer internship 2021. 
+This is a challenge project from Eluvio for the application to the summer internship 2021. 
 The program is used to retrieve information about items using their item ID, with limitation that only one item per query, and maximum 5 items request concurrently
 
 The code consists of two parts. The [main.go](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/main.go) performs most of the functionality, and [IDStore.go](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/IDstore.go) serves as a metastore for lookups and information storage.
