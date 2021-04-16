@@ -8,7 +8,7 @@ The code consists of two parts. The [main.go](https://github.com/JWRickyWan/Eluv
 
 To run the program, first build them by running "go build *.go" (Remember to set your GOPATH)
 
-Input of item IDs should be in a form a .txt file (like [input.txt](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/result.txt), separated by "\n" (new line).
+Input of item IDs should be in a form a .txt file (like [input.txt](https://github.com/JWRickyWan/Eluvio_Challenge_Core/blob/main/main/input.txt), separated by "\n" (new line).
 
 The input should contain three arguments: baseURL, ID text file, and authorization
 
